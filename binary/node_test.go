@@ -1,4 +1,4 @@
-package binary
+#git package binary
 
 import (
 	"fmt"
